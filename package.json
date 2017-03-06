@@ -1,0 +1,30 @@
+{
+  "name": "matrix-malos-plug",
+  "version": "0.0.1",
+  "description": "A minimal JS lib around MALOS for MATRIX Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Maciek Ruckgaber",
+    "email": "maciekrb@gmail.com"
+  },
+  "keywords": [
+    "aws",
+    "amazon",
+    "iot",
+    "matrix labs",
+    "matrix creator",
+    "mqtt"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "protobufjs": "^6.6.5",
+    "zmq": "^2.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maciekrb/matrix-malos-plug-js.git"
+  }
+}
